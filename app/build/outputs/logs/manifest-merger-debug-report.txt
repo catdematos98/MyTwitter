@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/afe820ac066d58fa6e9292217f10d931/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/39c05e875f5ffe703680312a5ce34f67/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/0a1c21859bd788c34f5aa9e34e21a78f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/337cc3dc9a2a41a8944d42e468e0445d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/a22f66582a18b6dc176beca0d4c0a66a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/bd50c550d4351e8d1070ae1943507593/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/5c7be9f44697a382f5d52992511328fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/16b2e89216a19f85e4535a258a61f1e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/99d85735a564bbfd71565bb1fbd5a3f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/82a1d34821f3cf9f8712b11416e37ac0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/feb8c91145b68989eea63ba7ea510618/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/dfe1cee07f8a541779ef9ed233800b7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/e926fd226a8b0bc57dac11cf6f7474e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/cc1d36a046c1791c271c9571e6b9f478/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/362394f83dd4000b735dca0331370f07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/e0fbfaac4741724fa5fd66b2cde16197/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/86b0fd06fcdac24ea1526a7af0e6f0ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/89df531d2e146506775c1f6d1bf520f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/cdcc374954825c172b346bf3bfef7d7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/595d55da22bec1ef7ae57801c74a5e44/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/932f55c8b8369d1da2fe5c10b324ad56/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/ec33c3a3e32dfb27dc0da75dd5de580f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/9eb7929d40434ff0aced9091a0503767/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/988922b6f39aec41d34f4f057510e492/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/7bb9a6ef177430d4c97cdf980b27e140/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/ed03013dabb9cca2a0ccb73303a4066c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/7e631b52fac0e6a1f8615b36b8bdc81e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/c3ec5503331a17bc29ebf90b8cd99e31/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/c8be9332d3fd92fcaf777e02d34d7ee3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/d1bdfe073a2d029c462f339318e0c7cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/f4fabad8a949106feba1704c0a1e764c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/6246f1d66a0a1456f895ad6885a3d4a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/7bb1fe0d98ed8f6a87a7601e3cfb693b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:10:5-37:19
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/337cc3dc9a2a41a8944d42e468e0445d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/337cc3dc9a2a41a8944d42e468e0445d/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/595d55da22bec1ef7ae57801c74a5e44/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/595d55da22bec1ef7ae57801c74a5e44/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/932f55c8b8369d1da2fe5c10b324ad56/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/932f55c8b8369d1da2fe5c10b324ad56/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/595d55da22bec1ef7ae57801c74a5e44/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.codepath.apps.restclienttemplate.LoginActivity
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:17:9-36:20
+	android:label
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:18:13-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:24:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:26:13-35:29
+action#android.intent.action.VIEW
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:30:17-78
+	android:name
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:30:27-75
+data
+ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:32:17-34:62
+	android:host
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:33:21-55
+	android:scheme
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml:34:21-59
+uses-sdk
+INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/afe820ac066d58fa6e9292217f10d931/AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/afe820ac066d58fa6e9292217f10d931/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/39c05e875f5ffe703680312a5ce34f67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/39c05e875f5ffe703680312a5ce34f67/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/0a1c21859bd788c34f5aa9e34e21a78f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/0a1c21859bd788c34f5aa9e34e21a78f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/337cc3dc9a2a41a8944d42e468e0445d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/337cc3dc9a2a41a8944d42e468e0445d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/a22f66582a18b6dc176beca0d4c0a66a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/a22f66582a18b6dc176beca0d4c0a66a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/bd50c550d4351e8d1070ae1943507593/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/bd50c550d4351e8d1070ae1943507593/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/5c7be9f44697a382f5d52992511328fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/5c7be9f44697a382f5d52992511328fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/16b2e89216a19f85e4535a258a61f1e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/16b2e89216a19f85e4535a258a61f1e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/99d85735a564bbfd71565bb1fbd5a3f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/99d85735a564bbfd71565bb1fbd5a3f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/82a1d34821f3cf9f8712b11416e37ac0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/82a1d34821f3cf9f8712b11416e37ac0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/feb8c91145b68989eea63ba7ea510618/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/feb8c91145b68989eea63ba7ea510618/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/dfe1cee07f8a541779ef9ed233800b7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/dfe1cee07f8a541779ef9ed233800b7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/e926fd226a8b0bc57dac11cf6f7474e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/e926fd226a8b0bc57dac11cf6f7474e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/cc1d36a046c1791c271c9571e6b9f478/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/cc1d36a046c1791c271c9571e6b9f478/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/362394f83dd4000b735dca0331370f07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/362394f83dd4000b735dca0331370f07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/e0fbfaac4741724fa5fd66b2cde16197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/e0fbfaac4741724fa5fd66b2cde16197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/86b0fd06fcdac24ea1526a7af0e6f0ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/86b0fd06fcdac24ea1526a7af0e6f0ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/89df531d2e146506775c1f6d1bf520f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/89df531d2e146506775c1f6d1bf520f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/cdcc374954825c172b346bf3bfef7d7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/cdcc374954825c172b346bf3bfef7d7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/595d55da22bec1ef7ae57801c74a5e44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/595d55da22bec1ef7ae57801c74a5e44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/932f55c8b8369d1da2fe5c10b324ad56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/932f55c8b8369d1da2fe5c10b324ad56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/ec33c3a3e32dfb27dc0da75dd5de580f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/ec33c3a3e32dfb27dc0da75dd5de580f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/9eb7929d40434ff0aced9091a0503767/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/9eb7929d40434ff0aced9091a0503767/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/988922b6f39aec41d34f4f057510e492/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/988922b6f39aec41d34f4f057510e492/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/7bb9a6ef177430d4c97cdf980b27e140/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/7bb9a6ef177430d4c97cdf980b27e140/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/ed03013dabb9cca2a0ccb73303a4066c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/ed03013dabb9cca2a0ccb73303a4066c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/7e631b52fac0e6a1f8615b36b8bdc81e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/7e631b52fac0e6a1f8615b36b8bdc81e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/c3ec5503331a17bc29ebf90b8cd99e31/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/c3ec5503331a17bc29ebf90b8cd99e31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/c8be9332d3fd92fcaf777e02d34d7ee3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/c8be9332d3fd92fcaf777e02d34d7ee3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/d1bdfe073a2d029c462f339318e0c7cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/d1bdfe073a2d029c462f339318e0c7cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/f4fabad8a949106feba1704c0a1e764c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/f4fabad8a949106feba1704c0a1e764c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/6246f1d66a0a1456f895ad6885a3d4a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/6246f1d66a0a1456f895ad6885a3d4a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/7bb1fe0d98ed8f6a87a7601e3cfb693b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/7bb1fe0d98ed8f6a87a7601e3cfb693b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/catdematos/Downloads/android-rest-client-template-master/app/src/main/AndroidManifest.xml
