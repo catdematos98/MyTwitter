@@ -1,10 +1,12 @@
 package com.codepath.apps.restclienttemplate;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
+import android.view.View;
 
 import com.codepath.apps.restclienttemplate.models.Tweet;
 import com.loopj.android.http.JsonHttpResponseHandler;
@@ -19,6 +21,7 @@ import cz.msebera.android.httpclient.Header;
 
 public class TimelineActivity extends AppCompatActivity {
 
+    private static final int EDIT_REQUEST_CODE = 20;
     private TwitterClient client;
     TweetAdapter tweetAdapter;
     ArrayList<Tweet> tweets;
@@ -40,6 +43,8 @@ public class TimelineActivity extends AppCompatActivity {
         populateTimeline();
 
     }
+
+
 
     private void populateTimeline() {
         client.getHomeTimelime(new JsonHttpResponseHandler(){
@@ -86,4 +91,8 @@ public class TimelineActivity extends AppCompatActivity {
     }
 
 
+    public void composeTweet(View view) {
+        Intent i = new Intent(TimelineActivity.this, ComposeActivity.class);
+        startActivityForResult(i, EDIT_REQUEST_CODE);
+    }
 }

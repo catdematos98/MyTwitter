@@ -1,21 +1,23 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-40:12
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-41:12
 MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/afe820ac066d58fa6e9292217f10d931/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/36d4d0016058babbd75e72645f1b6392/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/39c05e875f5ffe703680312a5ce34f67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/6dbfbef405a6009ac365255f1928d62c/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/0a1c21859bd788c34f5aa9e34e21a78f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/3aa68019544f181b4a0949516ff66368/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/337cc3dc9a2a41a8944d42e468e0445d/AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/6dbfbef405a6009ac365255f1928d62c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/a22f66582a18b6dc176beca0d4c0a66a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/bd50c550d4351e8d1070ae1943507593/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/5c7be9f44697a382f5d52992511328fe/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/16b2e89216a19f85e4535a258a61f1e7/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/99d85735a564bbfd71565bb1fbd5a3f8/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/82a1d34821f3cf9f8712b11416e37ac0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/5948c7b7f0d7d9ff16234dded5bff799/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/feb8c91145b68989eea63ba7ea510618/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/dfe1cee07f8a541779ef9ed233800b7f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/e926fd226a8b0bc57dac11cf6f7474e8/AndroidManifest.xml:17:1-22:12
@@ -28,6 +30,7 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/catdematos/.
 MERGED from [com.android.support:support-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/595d55da22bec1ef7ae57801c74a5e44/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/932f55c8b8369d1da2fe5c10b324ad56/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/ec33c3a3e32dfb27dc0da75dd5de580f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/49d47cc9bc0b5e2135d4523f3a26a584/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/9eb7929d40434ff0aced9091a0503767/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.persistence:db:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/988922b6f39aec41d34f4f057510e492/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/7bb9a6ef177430d4c97cdf980b27e140/AndroidManifest.xml:17:1-22:12
@@ -39,9 +42,9 @@ MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/catdematos
 MERGED from [com.android.support:print:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/f4fabad8a949106feba1704c0a1e764c/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/6246f1d66a0a1456f895ad6885a3d4a1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/7bb1fe0d98ed8f6a87a7601e3cfb693b/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-40:12
-INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:2:1-41:12
 	package
 		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:3:5-51
 		INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml
@@ -65,7 +68,9 @@ ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManif
 	android:name
 		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:8:22-78
 application
-ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:10:5-38:19
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:10:5-39:19
+MERGED from [com.android.support:design:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/36d4d0016058babbd75e72645f1b6392/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/36d4d0016058babbd75e72645f1b6392/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/3aa68019544f181b4a0949516ff66368/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/3aa68019544f181b4a0949516ff66368/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/337cc3dc9a2a41a8944d42e468e0445d/AndroidManifest.xml:11:5-20
@@ -88,64 +93,70 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catdematos/.
 		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:16:9-44
 	android:name
 		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:11:9-35
+activity#com.codepath.apps.restclienttemplate.ComposeActivity
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:17:9-62
+	android:name
+		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:17:19-50
 activity#com.codepath.apps.restclienttemplate.TimelineActivity
-ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:17:9-63
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:18:9-54
 	android:name
-		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:17:19-51
+		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:18:19-51
 activity#com.codepath.apps.restclienttemplate.LoginActivity
-ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:18:9-37:20
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:19:9-38:20
 	android:label
-		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:20:13-45
+		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:21:13-45
 	android:theme
-		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:21:13-44
+		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:22:13-44
 	android:name
-		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:19:13-42
+		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:20:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:22:13-26:29
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:23:17-69
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:23:25-66
+		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:25:17-77
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:25:27-74
+		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:26:27-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
-ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:27:13-36:29
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:28:13-37:29
 action#android.intent.action.VIEW
-ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:28:17-69
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:29:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:30:17-76
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:31:17-76
 	android:name
-		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:30:27-73
+		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:31:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:31:17-78
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:32:17-78
 	android:name
-		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:31:27-75
+		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:32:27-75
 data
-ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:33:17-35:62
+ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:34:17-36:62
 	android:host
-		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:34:21-55
+		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:35:21-55
 	android:scheme
-		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:35:21-59
+		ADDED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml:36:21-59
 uses-sdk
 INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml
 INJECTED from /Users/catdematos/Desktop/Twitter/MyTwitter/app/src/main/AndroidManifest.xml
 MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/afe820ac066d58fa6e9292217f10d931/AndroidManifest.xml:7:5-9:41
 MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/afe820ac066d58fa6e9292217f10d931/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/36d4d0016058babbd75e72645f1b6392/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/36d4d0016058babbd75e72645f1b6392/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/39c05e875f5ffe703680312a5ce34f67/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/39c05e875f5ffe703680312a5ce34f67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/6dbfbef405a6009ac365255f1928d62c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/6dbfbef405a6009ac365255f1928d62c/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/0a1c21859bd788c34f5aa9e34e21a78f/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/0a1c21859bd788c34f5aa9e34e21a78f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/3aa68019544f181b4a0949516ff66368/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/3aa68019544f181b4a0949516ff66368/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/337cc3dc9a2a41a8944d42e468e0445d/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/337cc3dc9a2a41a8944d42e468e0445d/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/6dbfbef405a6009ac365255f1928d62c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/6dbfbef405a6009ac365255f1928d62c/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/a22f66582a18b6dc176beca0d4c0a66a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/a22f66582a18b6dc176beca0d4c0a66a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/bd50c550d4351e8d1070ae1943507593/AndroidManifest.xml:20:5-44
@@ -158,6 +169,8 @@ MERGED from [com.android.support:support-core-utils:28.0.0] /Users/catdematos/.g
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/99d85735a564bbfd71565bb1fbd5a3f8/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/82a1d34821f3cf9f8712b11416e37ac0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/82a1d34821f3cf9f8712b11416e37ac0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/5948c7b7f0d7d9ff16234dded5bff799/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/5948c7b7f0d7d9ff16234dded5bff799/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/feb8c91145b68989eea63ba7ea510618/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/feb8c91145b68989eea63ba7ea510618/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/dfe1cee07f8a541779ef9ed233800b7f/AndroidManifest.xml:20:5-44
@@ -182,6 +195,8 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catdematos/.
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/932f55c8b8369d1da2fe5c10b324ad56/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/ec33c3a3e32dfb27dc0da75dd5de580f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/ec33c3a3e32dfb27dc0da75dd5de580f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/49d47cc9bc0b5e2135d4523f3a26a584/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/49d47cc9bc0b5e2135d4523f3a26a584/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/9eb7929d40434ff0aced9091a0503767/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/9eb7929d40434ff0aced9091a0503767/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.persistence:db:1.1.1] /Users/catdematos/.gradle/caches/transforms-2/files-2.1/988922b6f39aec41d34f4f057510e492/AndroidManifest.xml:20:5-44
