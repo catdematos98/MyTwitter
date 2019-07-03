@@ -1,8 +1,10 @@
 package com.codepath.apps.restclienttemplate;
 
 import android.content.Intent;
+import android.graphics.drawable.ColorDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.support.v7.app.ActionBar;
 import android.view.Menu;
 import android.view.View;
 import android.widget.Toast;
@@ -22,6 +24,10 @@ public class LoginActivity extends OAuthLoginActionBarActivity<TwitterClient> {
 
 		final SampleModel sampleModel = new SampleModel();
 		sampleModel.setName("CodePath");
+
+		ActionBar actionBar = getSupportActionBar();
+		actionBar.setTitle("Log into Twitter");
+		actionBar.setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.twitter_blue)));
 
 		sampleModelDao = ((TwitterApp) getApplicationContext()).getMyDatabase().sampleModelDao();
 

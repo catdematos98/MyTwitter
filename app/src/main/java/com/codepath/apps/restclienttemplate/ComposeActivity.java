@@ -1,7 +1,9 @@
 package com.codepath.apps.restclienttemplate;
 
 import android.content.Intent;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.text.Editable;
 import android.text.TextWatcher;
@@ -34,6 +36,10 @@ public class ComposeActivity extends AppCompatActivity {
 
         etTweet  = (EditText) findViewById(R.id.etCompose);
         chars = (TextView) findViewById(R.id.tvCharacters);
+
+        ActionBar actionBar = getSupportActionBar();
+        actionBar.setTitle("New Tweet");
+        actionBar.setBackgroundDrawable(new ColorDrawable(getResources().getColor(R.color.twitter_blue)));
 
         etTweet.addTextChangedListener(new TextWatcher() {
             @Override
