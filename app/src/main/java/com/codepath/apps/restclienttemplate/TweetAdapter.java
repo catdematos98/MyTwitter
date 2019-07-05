@@ -6,6 +6,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -40,6 +41,8 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder>{
         viewHolder.tvUsername.setText(tweet.user.name);
         viewHolder.tvBody.setText(tweet.body);
         viewHolder.tvTime.setText(tweet.createdAt);
+        viewHolder.btFavorites.setText(tweet.favorites.toString());
+        viewHolder.btRetweet.setText(tweet.retweets.toString());
 
         Glide.with(context)
                 .load(tweet.user.profileImageURL)
@@ -57,6 +60,8 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder>{
         public TextView tvUsername;
         public TextView tvBody;
         public TextView tvTime;
+        public Button btFavorites;
+        public Button btRetweet;
 
         public ViewHolder(View itemView){
             super(itemView);
@@ -65,6 +70,8 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder>{
             tvUsername = (TextView) itemView.findViewById(R.id.tvUserName);
             tvBody = (TextView) itemView.findViewById(R.id.tvBody);
             tvTime = (TextView) itemView.findViewById(R.id.tvTimeStamp);
+            btFavorites = (Button) itemView.findViewById(R.id.btFavorite);
+            btRetweet = (Button) itemView.findViewById(R.id.btRetweet);
 
 
         }

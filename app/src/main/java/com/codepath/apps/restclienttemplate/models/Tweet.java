@@ -15,6 +15,8 @@ public class Tweet implements Serializable {
     public long uid;
     public String createdAt;
     public User user;
+    public Integer favorites;
+    public Integer retweets;
 
     public static Tweet fromJson(JSONObject jsonObject) throws JSONException {
         Tweet tweet = new Tweet();
@@ -22,7 +24,8 @@ public class Tweet implements Serializable {
         tweet.body = jsonObject.getString("text");
         tweet.uid = jsonObject.getLong("id");
         tweet.createdAt = getRelativeTimeAgo(jsonObject.getString("created_at"));
-
+        tweet.favorites = jsonObject.getInt("favorite_count");
+        tweet.retweets = jsonObject.getInt("retweet_count");
         tweet.user = User.fromJSON(jsonObject.getJSONObject("user"));
         return tweet;
     }
