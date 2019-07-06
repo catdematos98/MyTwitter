@@ -269,7 +269,7 @@
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6FFFFFF</color>
-    <color name="twitter_blue">#ff1da1f2</color>
+    <color name="twitter_blue">#1DA1F2</color>
     <color name="twitter_blue_30">#4d1da1f2</color>
     <color name="twitter_blue_50">#801da1f2</color>
     <color name="twitter_blue_fill_pressed">#ff1370a9</color>

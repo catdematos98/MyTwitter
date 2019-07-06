@@ -3,6 +3,7 @@ package com.codepath.apps.restclienttemplate;
 import android.content.Context;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -44,6 +45,14 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder>{
         viewHolder.btFavorites.setText(tweet.favorites.toString());
         viewHolder.btRetweet.setText(tweet.retweets.toString());
 
+        if(tweet.user.verified){
+            Log.i("Verified: ", tweet.user.name + tweet.user.verified);
+            viewHolder.verified.setVisibility(View.VISIBLE);
+        }
+        else{
+            viewHolder.verified.setVisibility(View.INVISIBLE);
+        }
+
         Glide.with(context)
                 .load(tweet.user.profileImageURL)
                 .into(viewHolder.ivProfileImage);
@@ -62,6 +71,7 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder>{
         public TextView tvTime;
         public Button btFavorites;
         public Button btRetweet;
+        public ImageView verified;
 
         public ViewHolder(View itemView){
             super(itemView);
@@ -72,6 +82,7 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder>{
             tvTime = (TextView) itemView.findViewById(R.id.tvTimeStamp);
             btFavorites = (Button) itemView.findViewById(R.id.btFavorite);
             btRetweet = (Button) itemView.findViewById(R.id.btRetweet);
+            verified = (ImageView) itemView.findViewById(R.id.verified);
 
 
         }
@@ -87,4 +98,6 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder>{
         mTweets.addAll(list);
         notifyDataSetChanged();
     }
+
+
 }

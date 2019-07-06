@@ -4906,11 +4906,12 @@ public final class R {
     public static final int unlabeled=0x7f0800d1;
     public static final int up=0x7f0800d2;
     public static final int useLogo=0x7f0800d3;
-    public static final int view_offset_helper=0x7f0800d4;
-    public static final int visible=0x7f0800d5;
-    public static final int withText=0x7f0800d6;
-    public static final int wrap=0x7f0800d7;
-    public static final int wrap_content=0x7f0800d8;
+    public static final int verified=0x7f0800d4;
+    public static final int view_offset_helper=0x7f0800d5;
+    public static final int visible=0x7f0800d6;
+    public static final int withText=0x7f0800d7;
+    public static final int wrap=0x7f0800d8;
+    public static final int wrap_content=0x7f0800d9;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f090000;
