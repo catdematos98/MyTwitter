@@ -1,4 +1,4 @@
-#Fri Jul 05 17:16:50 PDT 2019
+#Fri Jul 05 17:52:02 PDT 2019
 base.0=/Users/catdematos/Desktop/Twitter/MyTwitter/app/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex
